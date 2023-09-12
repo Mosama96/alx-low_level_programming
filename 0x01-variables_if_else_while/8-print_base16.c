@@ -3,7 +3,7 @@
 /**
  * main - prints desired characters
  *
- * Retrutn: returns 0
+ * Return: returns 0
  */
 
 int main(void)
